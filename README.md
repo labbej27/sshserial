@@ -1,6 +1,6 @@
 # SSH-To-MINITEL-SERIAL
 
-Passerelle **Minitel ⇄ SSH** écrite en **Python**, utilisant **WebSocket** pour interconnecter un **Minitel réel (Magis Club, Minitel 1B, etc.)** avec un **serveur SSH moderne**, tout en respectant les contraintes historiques du **VIDEOTEX**.
+Passerelle **Minitel ⇄ SSH** écrite en **Python**, utilisant **Pyserial** pour interconnecter un **Minitel réel (Magis Club, Minitel 1B, etc.)** avec un **serveur SSH moderne**, tout en respectant les contraintes historiques du **VIDEOTEX**.
 
 Ce projet permet d'utiliser un Minitel comme **terminal interactif** pour accéder à un shell Unix distant (`bash`, `vi`, `mc`, etc.).
 
