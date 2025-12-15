@@ -16,6 +16,9 @@ Ce projet permet d'utiliser un Minitel comme **terminal interactif** pour accéd
 * Mode texte **40 colonnes Videotex**
 * Sans Unicode (ISO-8859-1 / `LANG=C`)
 * Testé sur Débian 13, mac et Raspberry pi3b sur MagisClus à 9600 Bauds
+## Démonstration
+
+![Capture d’écran](https://github.com/labbej27/sshserial/blob/main/MagisWifi.jpg)
 
 ---
 
