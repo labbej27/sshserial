@@ -24,11 +24,8 @@ Ce projet permet d'utiliser un Minitel comme **terminal interactif** pour accéd
 ```text
 [Minitel réel]
    │  (VIDEOTEX / Série / TCP)
-   ▼
-[Client WebSocket]
-   ▼
 [Serveur Python SSHMINITEL]
-   ├─ WebSocket
+   ├─ Pyserial
    ├─ Paramiko (SSH)
    ├─ Mapping clavier Minitel
    ▼
