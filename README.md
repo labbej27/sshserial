@@ -47,7 +47,7 @@ Depuis une machine disposant de Git :
 
 ```sh
 git clone https://github.com/labbej27/sshserial.git
-cd sshminitel
+cd sshserial
 ```
 Création d’un environnement virtuel Python (recommandé) :
 
