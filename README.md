@@ -169,7 +169,7 @@ python3 sshserial.py
 Sortie attendue :
 
 ```text
-Rien, mias le minitel doit se connecter directement.
+Rien, mais le minitel doit se connecter directement.
 ```
 ---
 
